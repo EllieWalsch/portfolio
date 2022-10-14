@@ -1,0 +1,35 @@
+header {
+    text-align: left;
+    padding: .50em .50em;
+    background-color: blue;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* nav {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+} */
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-weight: 400;
+  }
+
+ul {
+    padding-inline-start: 0px;
+}
+
+li {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+}

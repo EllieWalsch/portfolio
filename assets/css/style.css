@@ -1,4 +1,4 @@
-header {
+/* header {
     text-align: left;
     padding: .50em .50em;
     background-color: blue;
@@ -6,20 +6,27 @@ header {
 
 h1 {
     margin: 0;
+    font-size: 50px;
+    text-align: center;
 }
 
-/* nav {
+nav {
     display: flex;
-    flex-direction: column;
-    gap: 1rem;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3rem;
     text-align: center;
-} */
+    padding: 1rem;
+    background-color: aquamarine;
+}
 
 a {
     text-decoration: none;
     color: black;
     font-size: 1em;
     font-weight: 400;
+    border: solid black;
+    padding: 10px 30px;
   }
 
 ul {
@@ -29,7 +36,32 @@ ul {
 li {
     list-style-type: none;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 1rem;
     text-align: center;
+} */
+
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+h1 {
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+    padding-left: 0px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
 }

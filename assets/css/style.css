@@ -60,9 +60,19 @@ div img {
 
 /* Work */
 #work {
+    background-color: #6D597A;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 0;
+    padding: 20px;
+}
+
+#work h2 {
+    font-size: 2em;
+    margin: 0;
+    padding-bottom: 10px;
+    text-shadow: 0px 1.5px 1px #463154;
 }
 
  

@@ -29,3 +29,9 @@ a {
     color: #EAAC8B;
     text-transform: uppercase;
 }
+
+div {
+    display: flex;
+    align-items: center;
+}
+ 

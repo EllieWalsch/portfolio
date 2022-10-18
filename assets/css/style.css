@@ -75,4 +75,19 @@ div img {
     text-shadow: 0px 1.5px 1px #463154;
 }
 
+figure {
+    border: solid black 1px;
+}
+
+figure:hover {
+    transform: scale(1.02);
+}
+
+figcaption {
+    text-align: center;
+    font-size: smaller;
+    text-transform: uppercase;
+    background-color: #EAAC8B;
+}
+
  

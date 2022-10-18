@@ -57,4 +57,12 @@ div img {
     border: solid black 1px;
     justify-content: right;
 }
+
+/* Work */
+#work {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
  

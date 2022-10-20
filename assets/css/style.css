@@ -149,6 +149,7 @@ h3 {
 
 /* Desktop view */
 @media screen and (min-width: 680px) {
+    /* Header */
     header {
         margin: 0;
         display: flex;
@@ -162,7 +163,7 @@ h3 {
         gap: 40px;
         border: none;
     }
-
+    /* About Me */
     div {
         gap: 1em;
         justify-content: space-between;
@@ -177,6 +178,15 @@ h3 {
         max-width: 350px;
         max-height: 392px;
         justify-content: space-between;
+    }
+
+    div p {
+        font-size: 20px;
+    }
+    /* Work */
+    figure img {
+        max-width: 650px;
+        max-height: 472px;
     }
 
 

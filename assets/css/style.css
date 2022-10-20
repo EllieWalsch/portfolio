@@ -164,12 +164,19 @@ h3 {
     }
 
     div {
-        gap: 5em;
+        gap: 1em;
+        justify-content: space-between;
+        margin: 0;
+    }
+
+    div h2 {
+        font-size: 2em;
     }
 
     div img {
         max-width: 350px;
         max-height: 392px;
+        justify-content: space-between;
     }
 
 

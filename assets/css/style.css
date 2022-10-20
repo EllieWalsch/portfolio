@@ -163,5 +163,14 @@ h3 {
         border: none;
     }
 
+    div {
+        gap: 5em;
+    }
+
+    div img {
+        max-width: 350px;
+        max-height: 392px;
+    }
+
 
  

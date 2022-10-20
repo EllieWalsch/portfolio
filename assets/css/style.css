@@ -118,14 +118,27 @@ figcaption {
 }
 
 #contact-me a {
+    background-color: #EAAC8B;
+    padding: 5px;
     text-decoration: none;
     color: black;
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 
+/* Footer */
+footer {
+    background-color: #355070;
+    padding: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-size: small;
+    font-weight: lighter;
+    color: #EAAC8B;
+}
 
 
  

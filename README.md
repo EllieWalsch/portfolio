@@ -12,5 +12,5 @@ My porfolio can be viewed at [https://elliewalsch.github.io/portfolio/](https://
 
 ## Credits
 
-[https://coolors.co/palette/355070-6d597a-b56576-e56b6f-eaac8b](Color palette found on coolors.co)
+Color palette found on coolers.co [https://coolors.co/palette/355070-6d597a-b56576-e56b6f-eaac8b/](https://coolors.co/palette/355070-6d597a-b56576-e56b6f-eaac8b/)
 

@@ -106,6 +106,7 @@ figure img {
     margin: 0;
     display: flex;
     gap: 10px;
+    flex-direction: column;
 }
 
 .smaller-img:hover {
@@ -190,6 +191,10 @@ h3 {
     figure img {
         max-width: 650px;
         max-height: 472px;
+    }
+
+    .smaller-img {
+        flex-direction: row;
     }
 
     .smaller-img img {
